@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2336BCF7&lines=Hi+!+I'm+Tharun+...;I'm+a+Machine+Learning+Enthuastic+;And+a+Data+Scientist;See+You+on+the+Other+Side+...)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **DJango**
 
 - 👯 I’m looking to collaborate on **ML and DS Projects**
 
